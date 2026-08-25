@@ -3,28 +3,42 @@
 
   <br />
 
+  <a href="https://github.com/tutti-os/tutti"><img alt="Tutti" src="https://img.shields.io/badge/TUTTI-111827?style=flat-square&amp;logo=github&amp;logoColor=6FE7DD" /></a>
   <a href="https://github.com/mt-hub8/MindWeaver"><img alt="MindWeaver" src="https://img.shields.io/badge/MINDWEAVER-111827?style=flat-square&amp;logoColor=white" /></a>
   <a href="https://github.com/mt-hub8/codepet"><img alt="CodePet" src="https://img.shields.io/badge/CODEPET-111827?style=flat-square&amp;logoColor=white" /></a>
-  <a href="https://github.com/mt-hub8/mayWatch"><img alt="mayWatch" src="https://img.shields.io/badge/MAYWATCH-111827?style=flat-square&amp;logo=googlechrome&amp;logoColor=8BE9FD" /></a>
 
-  <p><sub>LOCAL-FIRST AI · RETRIEVAL SYSTEMS · AGENT TOOLING · PRODUCT ENGINEERING</sub></p>
+  <p><sub>HUMAN–AGENT COLLABORATION · AGENT INFRASTRUCTURE · LOCAL-FIRST AI</sub></p>
 </div>
 
 ## Profile
 
-I design and ship **local-first AI systems** that turn complex infrastructure into useful products. My work starts with reliable backends and retrieval engineering, then moves upward into grounded answers, scoped memory, agent workflows, and human-facing tools.
+I build systems where people and AI agents can work together with shared context, reliable runtime behavior, and clear interaction boundaries. As an active contributor to **[Tutti](https://github.com/tutti-os/tutti)**, I work across AgentGUI interaction, cross-agent session routing, desktop Agent mode, provider compatibility, and agent runtime reliability.
+
+Alongside open-source agent infrastructure, I build local-first products such as **MindWeaver** and **CodePet**, carrying the same focus on observability, privacy, and dependable system behavior into personal AI applications.
 
 My current development path connects three layers:
 
-| SYSTEMS | INTELLIGENCE | PRODUCTS |
+| TUTTI | AI SYSTEMS | PRODUCTS |
 |:--|:--|:--|
-| Spring Boot · Python Runtime · Async Workflows | RAG · Hybrid Retrieval · Evaluation · Memory | Personal Knowledge Workspace · Desktop Companion · Browser Tools |
+| AgentGUI · Session/Turn/Goal · Cross-Agent Workflows | RAG · Retrieval Evaluation · Memory · Orchestration | Personal Knowledge Workspace · AI Desktop Companion |
 
 > Build locally. Make behavior observable. Verify before claiming. Ship the whole experience.
 
 ## Selected systems
 
-### 01 / [MindWeaver](https://github.com/mt-hub8/MindWeaver)
+### 01 / [Tutti](https://github.com/tutti-os/tutti) · Active Contributor
+
+**A shared workspace where people and agents build in tune.**
+
+Tutti connects context, files, applications, and tasks across coding agents. My contributions focus on AgentGUI interaction and live message projection, cross-agent Session routing, Desktop Agent-mode behavior, provider compatibility for Codex, Cursor, and CodeBuddy, and reliable Session / Turn / Goal runtime boundaries.
+
+`TypeScript` `Go` `AgentGUI` `ACP` `Agent Runtime` `Desktop`
+
+<a href="https://github.com/tutti-os/tutti"><img alt="Tutti GitHub stars" src="https://img.shields.io/github/stars/tutti-os/tutti?style=flat-square&amp;label=STARS&amp;color=6FE7DD" /></a>
+<a href="https://tutti.sh/zh"><img alt="Tutti website" src="https://img.shields.io/badge/WEBSITE-TUTTI.SH-8B9DFF?style=flat-square" /></a>
+<a href="https://github.com/tutti-os/tutti/pulls?q=is%3Apr+author%3Amt-hub8"><img alt="Man Tuo's Tutti contributions" src="https://img.shields.io/badge/CONTRIBUTIONS-VIEW-111827?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+
+### 02 / [MindWeaver](https://github.com/mt-hub8/MindWeaver)
 
 **A local-first personal AI knowledge workspace.**
 
@@ -35,7 +49,7 @@ MindWeaver turns private documents into a searchable, traceable knowledge system
 <a href="https://github.com/mt-hub8/MindWeaver/commits/main"><img alt="MindWeaver latest commit" src="https://img.shields.io/github/last-commit/mt-hub8/MindWeaver?style=flat-square&amp;label=LAST%20COMMIT&amp;color=6FE7DD" /></a>
 <img alt="MindWeaver primary language" src="https://img.shields.io/github/languages/top/mt-hub8/MindWeaver?style=flat-square&amp;label=CORE&amp;color=8B9DFF" />
 
-### 02 / [CodePet](https://github.com/mt-hub8/codepet)
+### 03 / [CodePet](https://github.com/mt-hub8/codepet)
 
 **A local-first AI desktop companion for developers.**
 
@@ -46,50 +60,38 @@ CodePet brings reminders, local Ollama chat, command monitoring, coding-agent st
 <a href="https://github.com/mt-hub8/codepet/releases"><img alt="CodePet release" src="https://img.shields.io/github/v/release/mt-hub8/codepet?style=flat-square&amp;label=PUBLIC%20BETA&amp;color=8B9DFF" /></a>
 <a href="https://github.com/mt-hub8/codepet/actions/workflows/build.yml"><img alt="CodePet build status" src="https://img.shields.io/github/actions/workflow/status/mt-hub8/codepet/build.yml?style=flat-square&amp;label=BUILD&amp;color=6FE7DD" /></a>
 
-### 03 / [mayWatch](https://github.com/mt-hub8/mayWatch)
-
-**A zero-dependency Chrome extension for real-time page monitoring.**
-
-mayWatch tracks pages or selected elements, computes multi-level text diffs, extracts numeric trends, and sends optional Feishu notifications. Its floating interface is isolated with Shadow DOM while all monitoring data remains in local browser storage.
-
-`Chrome MV3` `JavaScript` `Shadow DOM` `Myers Diff` `Chart.js`
-
-<a href="https://github.com/mt-hub8/mayWatch/blob/main/LICENSE"><img alt="mayWatch MIT license" src="https://img.shields.io/badge/LICENSE-MIT-8B9DFF?style=flat-square" /></a>
-<a href="https://github.com/mt-hub8/mayWatch/commits/main"><img alt="mayWatch latest commit" src="https://img.shields.io/github/last-commit/mt-hub8/mayWatch?style=flat-square&amp;label=LAST%20COMMIT&amp;color=6FE7DD" /></a>
-
 ## Engineering trajectory
 
 ```text
-DOCUMENT INGESTION
+TUTTI AGENT INFRASTRUCTURE
         ↓
-HYBRID RETRIEVAL + EVALUATION
+PROVIDER-NEUTRAL SESSION / TURN / GOAL
         ↓
-GROUNDED ANSWERS + CITATION VERIFICATION
+RUNTIME RELIABILITY + INTERACTION UX
         ↓
-SCOPED MEMORY + AGENT PROFILES
+LOCAL-FIRST RAG + SCOPED MEMORY
         ↓
-TASK ORCHESTRATION
-        ↓
-LOCAL-FIRST DESKTOP & BROWSER PRODUCTS
+AI KNOWLEDGE & DESKTOP PRODUCTS
 ```
 
-This progression reflects how I approach AI development: establish a dependable system boundary first, make retrieval and generation measurable, then productize the capability without giving up privacy or observability.
+Across Tutti and my own products, I follow the same engineering direction: define dependable agent lifecycle boundaries, make state and failure visible, measure retrieval and generation quality, then turn the infrastructure into an experience people can actually use.
 
 ## Engineering stack
 
 | AREA | WORKING SET |
 |:--|:--|
+| **Agent Infrastructure** | Tutti · AgentGUI · ACP · Session/Turn/Goal · Runtime Recovery |
 | **AI Systems** | RAG · Hybrid Search · RRF · Reranking · Grounded Generation · Agent Memory |
 | **Backend** | Java · Spring Boot · Python · REST · Async Task Processing |
 | **Local Runtime** | Ollama · Qdrant · MySQL · RabbitMQ |
-| **Product** | TypeScript · JavaScript · Tauri · Chrome Extensions · HTML/CSS |
+| **Product** | TypeScript · JavaScript · Tauri · Desktop Integration · HTML/CSS |
 | **Delivery** | Docker · GitHub Actions · Windows Packaging · Automated Tests |
 
 ## Current direction
 
+- Contributing to Tutti's provider-neutral agent architecture, interaction model, and cross-agent workflow experience.
 - Advancing MindWeaver from isolated agent profiles and scoped memory toward multi-agent orchestration.
 - Improving retrieval quality through controlled evaluation rather than replacing a working pipeline on intuition.
-- Building local AI products that expose state, evidence, and failure modes to the user.
 
 <sub>Research track: evaluating local LightRAG integration in the isolated <a href="https://github.com/mt-hub8/lightrag-spike">lightrag-spike</a> before considering changes to the main retrieval path.</sub>
 
