@@ -1,13 +1,13 @@
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Man Tuo — local-first AI systems, retrieval engineering, and agent tooling" />
 
-  <br />
-
-  <a href="https://github.com/tutti-os/tutti"><img alt="Tutti" src="https://img.shields.io/badge/TUTTI-111827?style=flat-square&amp;logo=github&amp;logoColor=6FE7DD" /></a>
-  <a href="https://github.com/mt-hub8/MindWeaver"><img alt="MindWeaver" src="https://img.shields.io/badge/MINDWEAVER-111827?style=flat-square&amp;logoColor=white" /></a>
-  <a href="https://github.com/mt-hub8/codepet"><img alt="CodePet" src="https://img.shields.io/badge/CODEPET-111827?style=flat-square&amp;logoColor=white" /></a>
-
-  <p><sub>HUMAN–AGENT COLLABORATION · AGENT INFRASTRUCTURE · LOCAL-FIRST AI</sub></p>
+  <p>
+    <a href="https://github.com/tutti-os/tutti"><b>TUTTI</b></a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="https://github.com/mt-hub8/MindWeaver"><b>MINDWEAVER</b></a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="https://github.com/mt-hub8/codepet"><b>CODEPET</b></a>
+  </p>
 </div>
 
 ## Profile
