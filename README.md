@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Man Tuo — local-first AI systems, retrieval engineering, and agent tooling" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/mt-agents.png" />
+    <img src="./assets/mt-agents.gif" width="100%" alt="MT × AGENTS — people and AI agents building together" />
+  </picture>
 
   <p>
     <a href="https://github.com/tutti-os/tutti"><b>TUTTI</b></a>
