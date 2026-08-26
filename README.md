@@ -29,39 +29,29 @@ My current development path connects three layers:
 
 ## Selected systems
 
-### 01 / [Tutti](https://github.com/tutti-os/tutti) · Active Contributor
+### 01 / Tutti
 
-**A shared workspace where people and agents build in tune.**
+A shared workspace where people and AI agents build together.
 
-Tutti connects context, files, applications, and tasks across coding agents. My contributions focus on AgentGUI interaction and live message projection, cross-agent Session routing, Desktop Agent-mode behavior, provider compatibility for Codex, Cursor, and CodeBuddy, and reliable Session / Turn / Goal runtime boundaries.
+TypeScript · Go · AgentGUI · ACP
 
-`TypeScript` `Go` `AgentGUI` `ACP` `Agent Runtime` `Desktop`
+[Repository](https://github.com/tutti-os/tutti) · [Website](https://tutti.sh/zh) · [Contributions](https://github.com/tutti-os/tutti/pulls?q=is%3Apr+author%3Amt-hub8)
 
-<a href="https://github.com/tutti-os/tutti"><img alt="Tutti GitHub stars" src="https://img.shields.io/github/stars/tutti-os/tutti?style=flat-square&amp;label=STARS&amp;color=6FE7DD" /></a>
-<a href="https://tutti.sh/zh"><img alt="Tutti website" src="https://img.shields.io/badge/WEBSITE-TUTTI.SH-8B9DFF?style=flat-square" /></a>
-<a href="https://github.com/tutti-os/tutti/pulls?q=is%3Apr+author%3Amt-hub8"><img alt="Man Tuo's Tutti contributions" src="https://img.shields.io/badge/CONTRIBUTIONS-VIEW-111827?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+### 02 / MindWeaver
 
-### 02 / [MindWeaver](https://github.com/mt-hub8/MindWeaver)
+A local-first personal AI knowledge workspace.
 
-**A local-first personal AI knowledge workspace.**
+Java · Spring Boot · Python · Ollama · Qdrant
 
-MindWeaver turns private documents into a searchable, traceable knowledge system. It covers the full path from ingestion and vector indexing to hybrid retrieval, cited answers, RAG quality diagnostics, scoped memory, agent profiles, and task orchestration.
+[Repository](https://github.com/mt-hub8/MindWeaver)
 
-`Java` `Spring Boot` `Python` `Ollama` `Qdrant` `MySQL` `RabbitMQ`
+### 03 / CodePet
 
-<a href="https://github.com/mt-hub8/MindWeaver/commits/main"><img alt="MindWeaver latest commit" src="https://img.shields.io/github/last-commit/mt-hub8/MindWeaver?style=flat-square&amp;label=LAST%20COMMIT&amp;color=6FE7DD" /></a>
-<img alt="MindWeaver primary language" src="https://img.shields.io/github/languages/top/mt-hub8/MindWeaver?style=flat-square&amp;label=CORE&amp;color=8B9DFF" />
+A local-first AI desktop companion for developers.
 
-### 03 / [CodePet](https://github.com/mt-hub8/codepet)
+Tauri · TypeScript · Local AI
 
-**A local-first AI desktop companion for developers.**
-
-CodePet brings reminders, local Ollama chat, command monitoring, coding-agent status, dependency diagnostics, and lightweight behavior memory into a desktop companion. It is packaged as a Windows-first public beta with a privacy-first local data model.
-
-`Tauri` `TypeScript` `Local AI` `Agent Monitoring` `GitHub Actions`
-
-<a href="https://github.com/mt-hub8/codepet/releases"><img alt="CodePet release" src="https://img.shields.io/github/v/release/mt-hub8/codepet?style=flat-square&amp;label=PUBLIC%20BETA&amp;color=8B9DFF" /></a>
-<a href="https://github.com/mt-hub8/codepet/actions/workflows/build.yml"><img alt="CodePet build status" src="https://img.shields.io/github/actions/workflow/status/mt-hub8/codepet/build.yml?style=flat-square&amp;label=BUILD&amp;color=6FE7DD" /></a>
+[Repository](https://github.com/mt-hub8/codepet) · [Releases](https://github.com/mt-hub8/codepet/releases)
 
 ## Engineering trajectory
 
